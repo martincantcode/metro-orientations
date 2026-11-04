@@ -1,0 +1,6 @@
+requests
+geopandas>=0.14
+shapely>=2.0
+pyproj
+matplotlib>=3.8
+numpy
